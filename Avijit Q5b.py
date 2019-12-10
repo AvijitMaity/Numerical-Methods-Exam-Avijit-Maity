@@ -1,3 +1,6 @@
+'''
+This shows the plotting of the theorists data and a curve
+'''
 from scipy.interpolate import *
 import matplotlib.pyplot as plt
 import numpy as np
