@@ -1,3 +1,8 @@
+'''
+This program shows the Graph of the mass as a function of distance from the center out to 10.
+If we consider a elementary shell of radius x and thickness dx then mass of the element is = 4*pi*p*x^2* dx
+Then if we integrate this we will get the desired result.
+'''
 from scipy.integrate import *
 from numpy import *
 import matplotlib.pyplot as plt
