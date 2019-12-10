@@ -1,3 +1,7 @@
+'''
+This program shows the function in python that takes arbitrary value
+of quantity d as a function of physical parameter theta
+'''
 from scipy.interpolate import *
 import matplotlib.pyplot as plt
 import numpy as np
