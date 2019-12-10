@@ -1,0 +1,5 @@
+The GSL function that i will use to solve a nonlinear equation using the bisection method gsl_root_fsolver_bisection
+
+
+
+The scipy function that i will use to solve a nonlinear equation using the bisection method is scipy.optimize.bisect

@@ -1,0 +1,10 @@
+The GSL function that i will use to integrate a function using the romberg method 
+                    gsl_integration_romberg_workspace * gsl_integration_romberg_alloc(const size_t n)[This function allocates a workspace 
+for Romberg integration, specifying a maximum of n iterations, or divisions of the interval]
+
+                    void gsl_integration_romberg_free(gsl_integration_romberg_workspace * w)
+                            [This function frees the memory associated with the workspace w]
+
+
+
+The GSL function that i will use to integrate a function using the romberg method is scipy.integrate.romberg                   
